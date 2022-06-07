@@ -10,6 +10,7 @@
     "allowSyntheticDefaultImports": true,
     "forceConsistentCasingInFileNames": true,
     "useDefineForClassFields": true,
+    "strictNullChecks": true, // 开启后普通数据类型不能不赋值为undefined或者null, 除非用any赋值其他数据类型
     "sourceMap": true,
     "baseUrl": ".",
     "types": [
