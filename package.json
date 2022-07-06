@@ -1,8 +1,0 @@
-{
-  "name": "GenshinDamage",
-  "version": "1.0.0",
-  "main": "index.js",
-  "repository": "git@github.com:shinmyouwan/GenshinDamage.git",
-  "author": "shinmyouwan <1500839049@qq.com>",
-  "license": "MIT"
-}
